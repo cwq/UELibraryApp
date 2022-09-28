@@ -396,6 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-ThirdPerson/ThirdPerson/Binaries/Win64/UELibraryApp.exe
+ThirdPerson/ThirdPerson/Binaries/Win64/ThirdPerson.exe
 ThirdPerson/ThirdPerson/Saved/
 ThirdPerson/Engine/Saved/
